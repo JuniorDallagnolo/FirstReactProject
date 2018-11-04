@@ -1,13 +1,5 @@
 import React, { Component, Fragment } from "react";
-import {
-  NavItem,
-  NavLink,
-  Col,
-  Card,
-  Button,
-  CardTitle,
-  CardText
-} from "reactstrap";
+import { NavLink, Col, Card, Button, CardTitle, CardText } from "reactstrap";
 
 export default class UserCard extends Component {
   constructor(props) {
